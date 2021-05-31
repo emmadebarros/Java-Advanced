@@ -1,0 +1,8 @@
+Enter a floating point value:
+push
+pop
+print
+add
+sub
+mul
+div

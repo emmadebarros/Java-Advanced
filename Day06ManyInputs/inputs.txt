@@ -1,0 +1,3 @@
+bob;Between 18 and 35;Dog;North America;22 C
+Shawn;Between 18 and 35;Dog;North America;22 C
+jerry;Under 18;Other;North America;24 C
